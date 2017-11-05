@@ -2,6 +2,9 @@
 ## Mind the (Language) Gap: Neural Generation of Multilingual Wikipedia Summaries from Wikidata for ArticlePlaceholders
 This repository contains code for the Submission 550 at The Web Conference.
 
+The baselines are contained in **baselines**, there respective results as well as the results from our model are in
+**results**.
+
 
 The code contained in **crowdevaluation** was made in order to prepare and evaluate the community evaluation. The languages are abbreviated with their respective language codes (ar for Arabic and eo for Esperanto).
 - **Preparation** contains files that were used to create the surveys.
