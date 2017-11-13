@@ -21,7 +21,7 @@ The code contained in the `crowdevaluation` folder was made in order to prepare 
       - `<languagecode>-approp.py` calculates scores for the quality in terms of fluency
     - `Editors` for processing the results of the Editors 
 
-In `Models` folder you will find all the necessary files to sample (i.e. beam-sample) from our trained models in both Arabic and Esperanto.
+In the `Models` folder you will find all the necessary files to sample (i.e. beam-sample) from our trained models in both Arabic and Esperanto.
 
 1. First you need to run the shell script located at: `Models/download_trained_models.sh` in order to download all the required trained models and post-processing files.
 2. After you follow the instructions and install [Torch](http://torch.ch/) on your machine, run `Models/beam-sample.lua`.
