@@ -1,0 +1,4 @@
+Model/Checkpoints/
+Model/data/
+.ipynb_checkpoints/
+.DS_Store
